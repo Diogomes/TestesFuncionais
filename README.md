@@ -2,7 +2,7 @@
 Estudo de testes funcionais com Selenium Junit
 
 Configurações: 
-# para realização no mozila
+# para aplicar no mozila
 
 acessar o geckodriver
 
